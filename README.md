@@ -1,2 +1,3 @@
 # netflix-data-analysis
 Beginner-level data analysis project on Netflix Movies and TV Shows using Python. This project focuses on data cleaning, exploratory data analysis (EDA), and visualizations to uncover insights from the Netflix dataset.
+This project analyzes Netflix’s collection of movies and TV shows using Python. The analysis includes data cleaning, date formatting, identifying missing values, exploratory data analysis (EDA), and visualizing key insights like top genres, content release trends, and country-wise distribution. This is my first step into the world of data science and portfolio building.
